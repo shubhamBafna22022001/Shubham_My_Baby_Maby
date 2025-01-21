@@ -16,7 +16,7 @@ And open the main project!
 
 The app uses CloudKit to sync all the data, so a **paid** developer account is needed. Alternatively if you want to build locally and you don't need CloudKit, you can simply remove the cloud capabilities by clicking in the top "Maby" project inside of Xcode and removing them as follows:
 
-<img src="./.github/img/no_cloudkit_instructions.png" width="400">
+<img src="./.github/img/watchos_add.png" width="400">
 
 And in the `Persistence.swift` file inside of `MabyKit`, change `NSPersistentCloudKitContainer` to `NSPersistentContainer`. The app will then hopefully build correctly 🙂
 
@@ -34,7 +34,7 @@ The app consist in a main iOS app that allows for adding events and visualizing 
 And a companion watchOS app that has the ability to add new entries to the main app:
 
 <div float="left">
-	<img src="./.github/img/watchos_add.png" width="300" />
+	<img src="./.github/img/no_cloudkit_instructions.png" width="300" />
 	<img src="./.github/img/watchos_add_detail.png" width="300" />
 </div>
 
