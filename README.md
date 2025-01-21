@@ -40,6 +40,10 @@ And a companion watchOS app that has the ability to add new entries to the main 
 
 _(This one comes super in-handy during nights, trust me)_
 
+## ⬇️ Demo Video
+
+A complete demo video of the app, including the development environment and device specifications, is available [here](https://drive.google.com/file/d/1-w3vRJ0pSI0ikDwiU8N-w1b34DTuaFAM/view?usp=drive_link).
+
 ## ⬇️ Where can I get it?
 
 I no longer have an App Store Developer account, so the app is not available on the App Store anymore. You can freely fork this and publish it yourself, or compile it locally and side-load it to your device :^)
