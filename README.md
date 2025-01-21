@@ -7,7 +7,7 @@ Maby is an iOS/watchOS open-source app to help you keep track of your baby's sle
 The app was fully developed on Xcode 14 and includes a single-target watchOS app that as far as I know is not compatible with any lower version of Xcode, so you'll need the latest version of Xcode 14 to build it. Afterwards simply clone the repo and open!
 
 ```bash
-git clone https://github.com/sleepyfran/maby/
+git clone https://github.com/shubhamBafna22022001/Shubham_My_Baby_Maby.git
 ```
 
 And open the main project!
